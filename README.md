@@ -161,3 +161,6 @@ uninstall_startup.bat
 可直接参考：
 
 - `examples/workflow-session-system-prompt.txt`
+
+## 7. 鸣谢
+https://linux.do/
