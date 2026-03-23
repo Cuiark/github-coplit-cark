@@ -1,0 +1,11 @@
+{
+  "$schema": "https://opencode.ai/config.json",
+  "mcp": {
+    "copilot_human_gate_bridge": {
+      "type": "remote",
+      "url": "http://127.0.0.1:4317/sse/",
+      "enabled": true,
+      "timeout": 5000
+    }
+  }
+}
